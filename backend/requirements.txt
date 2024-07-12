@@ -1,0 +1,17 @@
+uvicorn
+fastapi
+openai
+streamlit
+streamlit-extras
+streamlit-lottie
+requests
+python-dotenv
+google-cloud-storage
+langchain
+langchain-community
+langchain-openai
+numpy
+requests
+matplotlib
+pymongo
+sentence-transformers
